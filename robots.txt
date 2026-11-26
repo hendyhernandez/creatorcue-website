@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hendyhernandez.github.io/creatorcue-website/sitemap.xml
